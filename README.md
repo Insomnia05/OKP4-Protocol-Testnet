@@ -122,7 +122,6 @@ Validator düzenleme
 
 ```
 okp4d tx staking edit-validator \
-  --moniker=insomnia \
   --identity=0C2BEA0F434BCBA8 \
   --website="https://github.com/Insomnia34" \
   --details="LFG" \
