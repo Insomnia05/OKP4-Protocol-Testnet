@@ -122,12 +122,12 @@ Validator düzenleme
 
 ```
 okp4d tx staking edit-validator \
-  --moniker=$NODENAME \
-  --identity="<KEYBASE ID'NİZ>" \
-  --website="<WEBSİTE LİNKİ>" \
-  --details="AÇIKLAMA" \
+  --moniker=insomnia \
+  --identity=0C2BEA0F434BCBA8 \
+  --website="https://github.com/Insomnia34" \
+  --details="LFG" \
   --chain-id=okp4-nemeton  \
-  --from=<CÜZDANADI>
+  --from=validator
 ``` 
 
 
